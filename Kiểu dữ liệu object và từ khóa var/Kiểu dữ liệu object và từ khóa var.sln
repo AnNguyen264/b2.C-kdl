@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiểu dữ liệu object và từ khóa var", "Kiểu dữ liệu object và từ khóa var.csproj", "{3152462F-65DD-41F0-B850-4548A678F672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3152462F-65DD-41F0-B850-4548A678F672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3152462F-65DD-41F0-B850-4548A678F672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3152462F-65DD-41F0-B850-4548A678F672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3152462F-65DD-41F0-B850-4548A678F672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D1B138-A27F-4E2A-9D4D-ECF588DBE108}
+	EndGlobalSection
+EndGlobal

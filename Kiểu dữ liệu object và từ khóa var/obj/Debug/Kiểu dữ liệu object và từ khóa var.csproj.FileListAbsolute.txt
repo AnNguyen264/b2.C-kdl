@@ -1,0 +1,7 @@
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\bin\Debug\Kiểu dữ liệu object và từ khóa var.exe.config
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\bin\Debug\Kiểu dữ liệu object và từ khóa var.exe
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\bin\Debug\Kiểu dữ liệu object và từ khóa var.pdb
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\obj\Debug\Kiểu dữ liệu object và từ khóa var.csproj.AssemblyReference.cache
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\obj\Debug\Kiểu dữ liệu object và từ khóa var.csproj.CoreCompileInputs.cache
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\obj\Debug\Kiểu dữ liệu object và từ khóa var.exe
+D:\0.C#\b2.Kiểu dữ liệu object và từ khóa var\Kiểu dữ liệu object và từ khóa var\obj\Debug\Kiểu dữ liệu object và từ khóa var.pdb
